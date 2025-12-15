@@ -19,3 +19,7 @@ I will continue adding more React projects to this repository (10+ projects) to 
 - JavaScript (ES6)
 - HTML5
 - CSS3
+
+### Screenshots
+![Uploading Screenshot 2025-12-15 at 8.42.51 PM.png…]()
+
